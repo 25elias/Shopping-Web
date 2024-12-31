@@ -208,7 +208,10 @@ img{
 /* Home section styling*/
 
 .home{
-    margin-top: 10rem;
+    position: relative;
+    top: 5rem;
+    height: 100vh;
+    margin-bottom: 5rem;
     background-color:var(--white-color);
 }
 .home__container{
